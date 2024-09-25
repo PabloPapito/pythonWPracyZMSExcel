@@ -1,0 +1,77 @@
+Agenda szkolenia Python w pracy z MS Excel
+
+Tytuł szkolenia: Python w pracy z MS Excel
+
+Cel szkolenia:
+Celem szkolenia jest wprowadzenie uczestników w podstawowe oraz zaawansowane zagadnienia dotyczące pracy z plikami Excel przy użyciu Pythona, z naciskiem na formatowanie komórek oraz tworzenie wykresów. Zajęcia obejmą zarówno teorię, jak i praktyczne warsztaty. Projekt w dniu 2: Tworzenie raportów i analiz z użyciem danych Excel.
+
+Czas trwania: 2 dni, po 8 godzin lekcyjnych (6 godzin zegarowych dziennie)
+
+Godziny szkolenia: 9:00 - 15:30 (z przerwami)
+
+Grupa docelowa:
+Szkolenie jest przeznaczone dla osób, które chcą poszerzyć swoje umiejętności w zakresie pracy z plikami Excel przy użyciu Pythona, z naciskiem na generowanie wykresów i raportów.
+
+Dzień pierwszy
+09:00-09:15 - Powitanie, przedstawienie się oraz uczestników
+09:15-10:30 – Wstęp oraz wykład z Python
+	Omówienie środowiska pracy: Jupyter Notebook, instalacja bibliotek, konfiguracja
+	Podstawy Pythona:
+		Zmienne, typy danych, struktury sterujące
+		Operacje na liczbach, ciągach znaków, listach
+		Funkcje, moduły, biblioteki standardowe
+10:30-11:30 – Warsztat z Python
+	Ćwiczenia praktyczne:
+		Tworzenie skryptów w Pythonie (operacje na zmiennych, listach)
+		Proste operacje matematyczne, pętle, warunki
+11:30-11:45 – Przerwa 15 min
+11:45-13:15 – Wykład z Pandas
+	Wprowadzenie do Pandas:
+		DataFrame i Series – podstawowe struktury danych
+		Wczytywanie danych z plików CSV/Excel
+		Operacje na danych: filtrowanie, sortowanie, grupowanie
+		Podstawowe statystyki opisowe
+13:15-13:30 – Przerwa 15 min
+13:30-15:00 – Warsztat z Pandas
+	Ćwiczenia praktyczne z Pandas:
+		Praca z danymi z plików Excel i CSV
+		Filtrowanie, sortowanie, agregowanie danych
+		Tworzenie raportów na podstawie analiz danych
+15:00-15:30 – Omówienie wyników
+	Podsumowanie warsztatów z Pandas:
+		Omówienie najczęściej popełnianych błędów
+		Pytania od uczestników, dyskusja
+
+Dzień drugi
+09:00-10:00 – Wstęp do pracy z Excel wykorzystując Python (wprowadzenie oraz dodawanie danych)
+	Praca z bibliotekami openpyxl i xlsxwriter:
+		Wczytywanie, tworzenie i edytowanie plików Excel
+		Dodawanie danych do komórek
+		Zarządzanie arkuszami i komórkami
+10:00-11:00 – Warsztat z pracy z pakietami
+	Ćwiczenia praktyczne:
+		Tworzenie i zapisywanie plików Excel
+		Praca z danymi, dodawanie wierszy, kolumn, modyfikowanie arkuszy
+		Ćwiczenia na podstawie rzeczywistych danych
+11:00-11:15 – Przerwa 15 min
+11:15-12:15 – Wykład: Formatowanie komórek
+	Stylizowanie plików Excel:
+		Formatowanie komórek (kolory, czcionki, obramowania)
+		Formatowanie warunkowe
+		Zmiana szerokości kolumn, wysokości wierszy
+12:15-13:15 – Tworzenie wykresów
+	Tworzenie wykresów w Excelu za pomocą openpyxl i xlsxwriter:
+		Wykresy słupkowe, liniowe, kołowe, punktowe
+		Dynamiczne dodawanie wykresów na podstawie danych
+		Stylizowanie i formatowanie wykresów
+13:15-13:30 – Przerwa 15 min
+13:30-15:00 – Warsztat z pracy z pakietami oraz tworzenia wykresów
+	Ćwiczenia praktyczne:
+		Tworzenie plików Excel z formatowaniem i wykresami
+		Generowanie danych i wizualizacji
+		Praktyczne wykorzystanie wykresów do prezentacji danych
+15:00-15:30 – Zakończenie szkolenia (test oraz ankiety)
+	Podsumowanie szkolenia:
+		Test wiedzy
+		Pytania i odpowiedzi, omówienie tematów dodatkowych
+		Ankieta oceniająca szkolenie
