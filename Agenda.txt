@@ -10,12 +10,12 @@ Dzień pierwszy
 
 Dzień drugi
 
-09:00-10:00 - Wstęp do pracy z Excel wykorzystując Python (wprowadzenie oraz dodawanie danych)
-10:00-11:00 - Warsztat z pracy z pakietami
-11:00-11:15 - Przerwa 15 min
-11:15-12:15 - Wykład Formatowanie Komórek
-12:15-13:15 - Tworzenie Wykresów
-13:15-13:30 - Przerwa 15 min
-13:30-15:00 - Warsztat z pracy z pakietami oraz tworzenia wykresów
+09:00-11:00 - Wstęp do pracy z Excel wykorzystując Python (wprowadzenie oraz dodawanie danych)
+11:00-11:30 - Warsztat z pracy z pakietami
+11:45-12:00 - Przerwa 15 min
+12:00-13:00 - Wykład Formatowanie Komórek
+13:00-13:45 - Tworzenie Wykresów
+13:45-14:00 - Przerwa 15 min
+14:00-15:00 - Warsztat z pracy z pakietami oraz tworzenia wykresów
 15:00-15:30 - Zakończenie szkolenia (test oraz ankiety)
 
